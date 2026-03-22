@@ -9,8 +9,7 @@
 ---
 
 ## 🔗 Live Case Study
-**👉 [View the full case study here](https://YOUR-USERNAME.github.io/notion-case-study)**
-*(Replace with your actual GitHub Pages link)*
+**👉 [View the full case study here](https://virus-ui.github.io/Notion-case-study/)**
 
 ---
 
